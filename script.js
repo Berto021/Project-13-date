@@ -1,6 +1,6 @@
 let button = document.querySelector('#no');
-let height = window.innerHeight - 650;
-let width = window.innerWidth - 650;
+let height = window.innerHeight - 300;
+let width = window.innerWidth - 300;
 const cat = document.querySelector('.background-sad-cat')
 const box = document.querySelector('.box')
 const textBox = document.querySelector('.text-container')
